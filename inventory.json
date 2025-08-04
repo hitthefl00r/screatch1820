@@ -1,0 +1,122 @@
+{
+    "refrigerator_1": {
+        "Крым Энергия": {
+            "quantity": 84,
+            "category": "КРЫМ"
+        },
+        "крым жб 0.33": {
+            "quantity": 25,
+            "category": "крым"
+        },
+        "Крым стекло": {
+            "quantity": 2,
+            "category": "коым"
+        }
+    },
+    "refrigerator_2": {
+        "Адреналин 0.5": {
+            "quantity": 12,
+            "category": "адреналин"
+        },
+        "адреналин 0.3": {
+            "quantity": 6,
+            "category": "адреналин"
+        },
+        "Редбул 0.5": {
+            "quantity": 3,
+            "category": null
+        },
+        "редбул 0.3": {
+            "quantity": 8,
+            "category": null
+        },
+        "редбул 0.2": {
+            "quantity": 14,
+            "category": null
+        },
+        "HQD": {
+            "quantity": 28,
+            "category": null
+        },
+        "LIT": {
+            "quantity": 81,
+            "category": null
+        },
+        "LIT LIMONAD": {
+            "quantity": 12,
+            "category": null
+        },
+        "FLASH": {
+            "quantity": 53,
+            "category": null
+        }
+    },
+    "refrigerator_3": {
+        "вода": {
+            "quantity": 2,
+            "category": null
+        },
+        "палпи 0.5": {
+            "quantity": 59,
+            "category": null
+        },
+        "Рич 1л": {
+            "quantity": 12,
+            "category": null
+        },
+        "кфс": {
+            "quantity": 155,
+            "category": null
+        },
+        "рич 0,5": {
+            "quantity": 29,
+            "category": null
+        },
+        "добрый жб 0.33": {
+            "quantity": 85,
+            "category": null
+        },
+        "Burn": {
+            "quantity": 112,
+            "category": null
+        }
+    },
+    "cupboard": {
+        "Burn": {
+            "quantity": 92,
+            "category": null
+        },
+        "FLASH": {
+            "quantity": 64,
+            "category": null
+        },
+        "палпи 0.5": {
+            "quantity": 50,
+            "category": null
+        },
+        "LIT": {
+            "quantity": 125,
+            "category": null
+        },
+        "добрый жб 0.33": {
+            "quantity": 78,
+            "category": null
+        },
+        "Крым Энергия": {
+            "quantity": 4,
+            "category": null
+        },
+        "Адреналин 0.5": {
+            "quantity": 29,
+            "category": null
+        },
+        "рич 0,5": {
+            "quantity": 41,
+            "category": null
+        },
+        "Рич 1л": {
+            "quantity": 22,
+            "category": null
+        }
+    }
+}
